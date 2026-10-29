@@ -64,6 +64,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Die wichtigsten Funktionen von Marketing Campaign Analytics finden Sie in der Benutzeroberfläche von . Weitere Informationen finden Sie im Handbuch zu [Adobe Marketing Campaign Analytics](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Die wichtigsten Funktionen von Marketing Campaign Analytics finden Sie in der Benutzeroberfläche von . Weitere Informationen finden Sie im Handbuch zu [Adobe Marketing Campaign Analytics](https://experienceleague.adobe.com/de/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
