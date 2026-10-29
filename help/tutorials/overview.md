@@ -1,29 +1,37 @@
 ---
-title: Videos und Tutorials zu Mix Modeler
-description: Eine Sammlung von Videos und Tutorials für Adobe Mix Modeler.
+title: Videos und Tutorials zu Marketing Campaign Analytics
+description: Eine Videosammlung und Tutorials zu Adobe Marketing Campaign Analytics.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-TQID: https://experienceleague.adobe.com/FWQ4ob4bYY75UfFmRFj7q-P5zX6k7d8jH5BV6C76HEU
+TQID: 'https://experienceleague.adobe.com/u-cvOylzy9JlmaXEA6Blw4fr-WfpKrmJB7oK70Lp3AY'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
+    internal-label: Models
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 1173a14c0dbe6b418918a687a9216a8cb2c7c24f
+    internal-label: Machine learning
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 12%
-
+source-wordcount: '184'
+ht-degree: 1%
 ---
+# Marketing Campaign Analytics-Tutorials
 
-# Tutorials für Mix Modeler
+>[!BEGINSHADEBOX]
 
-In diesen Videos und Tutorials erfahren Sie mehr über Adobe Mix Modeler.
+**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Marketing Campaign Analytics**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
 
-Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Planung von Marketing-Investitionen durch die Anwendung von Modellen für maschinelles Lernen, die Einblicke in die historischen und zukünftigen Auswirkungen von Marketing-Investitionen auf wichtige Geschäftsziele bieten.
+>[!ENDSHADEBOX]
+
+In diesen Videos und Tutorials erfahren Sie mehr über Adobe Marketing Campaign Analytics.
+
+Adobe Marketing Campaign Analytics unterstützt Unternehmen bei der Messung, Optimierung und Planung von Marketing-Investitionen durch die Anwendung von Modellen für maschinelles Lernen, die Einblicke in die historischen und zukünftigen Auswirkungen von Marketing-Investitionen auf wichtige Geschäftsziele bieten.
 
 
 <div id="recs-overview-body-1"></div>
@@ -40,7 +48,7 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440803?captions=ger&format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -48,12 +56,12 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
     </a>
     </div>
     <p>
-    <em>Sehen Sie sich eine umfassende Demo von Adobe Mix Modeler an</em>
+    <em>Sehen Sie sich eine umfassende Demo von Adobe Marketing Campaign Analytics an</em>
     <p>
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3452391?captions=ger&format=jpeg" />
+      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -61,12 +69,12 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
     </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über die wichtigsten Komponenten der Benutzeroberfläche von Adobe Mix Modeler</em>
+    <em>Erfahren Sie mehr über die wichtigsten Komponenten der Benutzeroberfläche von Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3440213?captions=ger&format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
@@ -74,7 +82,7 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
     </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über den Benutzer-Workflow in Adobe Mix Modeler</em>
+    <em>Erfahren Sie mehr über den Benutzer-Workflow in Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
 </tr>

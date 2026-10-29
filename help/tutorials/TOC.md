@@ -1,25 +1,23 @@
 ---
-user-guide-title: Tutorials für Mix Modeler
-breadcrumb-title: Tutorials für Mix Modeler
-user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Mix Modeler.
+user-guide-title: Marketing Campaign Analytics-Tutorials
+breadcrumb-title: Marketing Campaign Analytics-Tutorials
+user-guide-description: Eine Videosammlung und Tutorials zu Adobe Marketing Campaign Analytics.
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: e037e5e4219dab3d80a0d2c50f6e814ea5e2b91a
+source-git-commit: 86c8d3b8ccdeb5bf0c3d8c4c4ba0a000060a2206
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 48%
-
+source-wordcount: '49'
+ht-degree: 2%
 ---
 
+# Adobe Marketing Campaign Analytics-Tutorials {#tutorials}
 
-# Adobe Mix Modeler-Tutorials {#tutorials}
-
-+ [Tutorials für Mix Modeler](/help/tutorials/overview.md)
-+ Einführung in Mix Modeler {#intro}
-   + [Benutzer-Workflow](/help/tutorials/intro/user-workflow.md)
-   + [End-to-End-Demo](/help/tutorials/intro/demo.md)
-   + [Tour durch die Benutzeroberfläche](/help/tutorials/intro/user-interface-tour.md)
++ [Marketing Campaign Analytics-Tutorials](/help/tutorials/overview.md)
++ Einführung in Marketing Campaign Analytics {#intro}
+  + [Benutzer-Workflow](/help/tutorials/intro/user-workflow.md)
+  + [End-to-End-Demo](/help/tutorials/intro/demo.md)
+  + [Tour durch die Benutzeroberfläche](/help/tutorials/intro/user-interface-tour.md)
 + Funktionen {#features}
-   + [Zielbasierte Planung](/help/tutorials/features/goal-based-planning.md)
-   + [Modelldrifterkennung](/help/tutorials/features/model-drift-detection.md)
+  + [Zielbasierte Planung](/help/tutorials/features/goal-based-planning.md)
+  + [Modelldrifterkennung](/help/tutorials/features/model-drift-detection.md)
