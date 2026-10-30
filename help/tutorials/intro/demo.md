@@ -1,6 +1,6 @@
 ---
-title: Mix Modeler End-to-End-Demo
-description: Erfahren Sie mehr über den End-to-End-Workflow in Adobe Mix Modeler.
+title: Marketing Campaign Analytics End-to-End-Demo
+description: Lernen Sie den End-to-End-Workflow von Adobe Marketing Campaign Analytics kennen.
 role: Developer, User
 level: Beginner
 doc-type: Value Video
@@ -8,17 +8,17 @@ duration: 1280
 last-substantial-update: 2024-12-03T00:00:00.000Z
 jira: KT-16610
 exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
-TQID: 'https://experienceleague.adobe.com/NLRWCJvd9Jqo4sbb-6EB-p5CZeS5rPZ1P5I3DcwrToE'
+TQID: 'https://experienceleague.adobe.com/12qKmVTmEWRXbcmNZSjKJWs-rxvRd55yRlJAXtA4rCs'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
+  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
+    internal-label: Harmonized data
   - id: e0abf868-dae2-4c1c-83e9-b21799232845
     internal-label: Datasets
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
-  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
-    internal-label: Harmonized data
 subfeature_v2:
   - id: a9505d76-24a1-4ffe-bd01-6ac32d5af453
     internal-label: Model insights
@@ -55,13 +55,19 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 9d05b49487b1c920327241c1147a4c72cb9d69b8
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 37%
+source-wordcount: '84'
+ht-degree: 9%
 ---
-# Mix Modeler End-to-End-Demo
+# Marketing Campaign Analytics End-to-End-Demo
 
-Sehen Sie sich eine End-to-End-Demo von Adobe Mix Modeler an. Weitere Informationen finden Sie in der Dokumentation zu [Mix Modeler](https://experienceleague.adobe.com/de/docs/mix-modeler/using/overview).
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Marketing Campaign Analytics**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
+Sehen Sie sich eine End-to-End-Demo von Adobe Marketing Campaign Analytics an. Weitere Informationen finden Sie in der Dokumentation zu [Marketing Campaign Analytics](https://experienceleague.adobe.com/de/docs/mix-modeler/using/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440803/?captions=ger&learn=on&enablevpops)
