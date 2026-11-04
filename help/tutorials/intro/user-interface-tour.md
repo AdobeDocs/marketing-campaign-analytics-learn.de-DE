@@ -51,16 +51,16 @@ topic_v2:
     internal-label: Insights
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '80'
 ht-degree: 0%
 ---
 # Tour durch die Benutzeroberfläche
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Marketing Campaign Analytics**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Mix Modeler**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 

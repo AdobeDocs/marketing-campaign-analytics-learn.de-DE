@@ -16,16 +16,16 @@ topic_v2:
     internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 ---
 # Marketing Campaign Analytics-Tutorials
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Marketing Campaign Analytics**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Mix Modeler**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
