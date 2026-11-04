@@ -16,16 +16,16 @@ topic_v2:
     internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 ---
 # Marketing Campaign Analytics-Tutorials
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Marketing Campaign Analytics**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** ist die Weiterentwicklung und das Rebranding von **Adobe Mix Modeler**. Einige Experience League-Inhalte beziehen sich möglicherweise immer noch auf Mix Modeler anstelle von Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
@@ -48,7 +48,7 @@ Adobe Marketing Campaign Analytics unterstützt Unternehmen bei der Messung, Opt
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440803?captions=ger&format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -61,7 +61,7 @@ Adobe Marketing Campaign Analytics unterstützt Unternehmen bei der Messung, Opt
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3452391?captions=ger&format=jpeg" />
+      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -74,7 +74,7 @@ Adobe Marketing Campaign Analytics unterstützt Unternehmen bei der Messung, Opt
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3440213?captions=ger&format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
