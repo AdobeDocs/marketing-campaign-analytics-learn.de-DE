@@ -47,6 +47,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Lernen Sie den Workflow von Marketing Campaign Analytics kennen. Weitere Informationen finden Sie in der Dokumentation zum [Marketing Campaign Analytics](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)Workflow.
+Lernen Sie den Workflow von Marketing Campaign Analytics kennen. Weitere Informationen finden Sie in der Dokumentation zum [Marketing Campaign Analytics](https://experienceleague.adobe.com/de/docs/mix-modeler/using/get-started/workflow)Workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)

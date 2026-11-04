@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Mit der Funktion zur Erkennung von Modellabweichungen von Marketing Campaign Analytics werden Änderungen an der Modellleistung automatisch erkannt und Benutzende benachrichtigt. Sie können sofort Maßnahmen ergreifen, um die optimale Leistung des Modells wiederherzustellen. Weitere Informationen finden Sie unter [Modellverschiebung](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in der Marketing Campaign Analytics-Dokumentation.
+Mit der Funktion zur Erkennung von Modellabweichungen von Marketing Campaign Analytics werden Änderungen an der Modellleistung automatisch erkannt und Benutzende benachrichtigt. Sie können sofort Maßnahmen ergreifen, um die optimale Leistung des Modells wiederherzustellen. Weitere Informationen finden Sie unter [Modellverschiebung](https://experienceleague.adobe.com/de/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in der Marketing Campaign Analytics-Dokumentation.
 
 >[!SLIDE](model-drift-detection)
