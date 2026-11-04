@@ -70,4 +70,4 @@ ht-degree: 9%
 
 Sehen Sie sich eine End-to-End-Demo von Adobe Marketing Campaign Analytics an. Weitere Informationen finden Sie in der Dokumentation zu [Marketing Campaign Analytics](https://experienceleague.adobe.com/de/docs/mix-modeler/using/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440803/?captions=ger&learn=on&enablevpops)
